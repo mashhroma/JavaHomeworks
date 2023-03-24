@@ -4,7 +4,7 @@ package Homework01;
 
 public class Task1 {
     public static void main(String[] args) {
-        for (int i = 3; i < 1000; i++) {
+        for (int i = 2; i < 1000; i++) {
             boolean flag = true;
             for (int j = 2; j < i; j++) {
                 if (i%j == 0) flag = false;
