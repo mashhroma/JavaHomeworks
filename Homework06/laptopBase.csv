@@ -1,0 +1,11 @@
+model;memoryRAM;memoryHard;notebookOS;screenSize;brand;color
+Legion 5;16;512;Windows10;15;Lenovo;white
+TUF Gaming F15;8;512;Windows10;15;Asus;black
+MacBook Air 13 M1;8;256;MacOS;13;Apple;silver
+Katana GF66 ;16;256;Windows10;15;MSI;silver
+Nitro 5AN515;16;512;Windows11;15;Acer;silver
+MacBook Air 13 M1;8;128;MacOS;13;Apple;white
+MacBook Air 15 M1;16;512;MacOS;15;Apple;black
+TUF Gaming F18;24;1028;Windows10;18;Asus;silver
+Legion 5-18;16;256;Windows10;18;Lenovo;black
+Nitro 5AN513;8;256;Windows10;13;Acer;silver
